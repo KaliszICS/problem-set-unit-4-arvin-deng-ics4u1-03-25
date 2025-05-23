@@ -1,0 +1,9 @@
+K(30%): 100
+I(30%): 93
+C(10%): 90
+A(30%): 95
+95.4
+Missing whole class javadocs at the start of each file.
+Equals method need to check for non-card and null values.
+Equals should also not use an if statement at the end, just return the condition.
+reshuffle could reuse addCard to avoid null cards.
